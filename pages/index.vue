@@ -1,0 +1,13 @@
+<template>
+    <div>
+        <NavbarTop/>
+        <NavbarMain/>
+        <Header/>
+        <main>
+            <SectionsAbout/>
+            <SectionsHow/>
+            <SectionsBenefits/>
+            <SectionsGuaranty/>
+        </main>
+    </div>
+</template>
