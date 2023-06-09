@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto flex flex-col items-center mt-16 px-5">
+    <section class="container mx-auto flex flex-col items-center mt-16 px-5">
         <h2 class="text-center text-4xl font-bold" style="max-width:800px">Jak funguje fotovoltaická elektrárna</h2>
         <div class="grid-cols-2 gap-8 mt-10 md:grid md:grid-cols-3 lg:grid-cols-4 flex flex-col">
             <div class="bg-slate-100 p-12 rounded-xl">
@@ -23,5 +23,5 @@
                 <p>..nebo když není sluneční světlo, se energie negeneruje. Uložená energie se využívá k provozu elektrických spotřebičů.</p>
             </div>
         </div>
-    </div>
+    </section>
 </template>

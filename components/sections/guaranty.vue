@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto flex flex-col gap-2 mt-16 items-center">
+    <section class="container mx-auto flex flex-col gap-2 mt-16 items-center">
         <h2 class="text-4xl text-center font-bold">Poskytované záruky na fotovoltaické elektrárny</h2>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-9 justify-center m-5 items-baseline" style="max-width:700px">
             <div class="flex justify-center items-center rounded-lg h-44 w-44">
@@ -42,5 +42,5 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 </template>
