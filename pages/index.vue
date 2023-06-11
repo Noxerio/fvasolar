@@ -10,11 +10,7 @@ onMounted(() => {
 
 <template>
     <div>
-        <header>
-            <NavbarTop/>
-            <NavbarMain/>
-            <Header/>
-        </header>
+        <Header/>
         <main>
             <SectionsAbout/>
             <SectionsHow/>
@@ -23,7 +19,7 @@ onMounted(() => {
             <SectionsGuaranty/>
             <SectionsContact/>
         </main>
-        <Footer/>
+        
         <ModalsContact/>
     </div>
 </template>

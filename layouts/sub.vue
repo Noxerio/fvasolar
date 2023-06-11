@@ -1,0 +1,11 @@
+<template>
+    <div>
+        <header>
+            <NavbarTop/>
+            <NavbarMain/>
+            <HeaderSub/>
+        </header>
+        <slot/>
+        <Footer/>
+    </div>
+</template>

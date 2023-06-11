@@ -1,5 +1,5 @@
 <template>
-    <section class=" w-full bg-[url('bg-top.png')] bg-fixed bg-cover bg-center border-b-8 border-amber-400">
+    <section class=" w-full bg-[url('/bg-top.png')] bg-fixed bg-cover bg-center border-b-8 border-amber-400">
         <div class="container mx-auto  p-20 md:grid grid-cols-2 gap-8">
             <div>
                 <h2 class="font-bold text-4xl mb-6 text-white">Energetické poradenství</h2>
