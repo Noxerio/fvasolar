@@ -6,5 +6,12 @@ export default defineNuxtConfig({
     'nuxt-swiper',
     'nuxt-icon',
     '@nuxt/content'
-  ]
+  ],
+  app: {
+    head: {
+      script: [
+        {src: "https://identity.netlify.com/v1/netlify-identity-widget.js", tagPosition: "head"}
+      ]
+    }
+  }
 })
