@@ -1,7 +1,7 @@
 <script setup>
     const { data } = await useAsyncData(
         `references`,
-        () => queryContent(`references`).findOne()
+        () => queryContent(`references`).find()
     );
     console.log(data);
 </script>
