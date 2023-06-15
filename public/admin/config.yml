@@ -12,12 +12,13 @@ slug:
   clean_accents: true
 
 collections:
-  - name: "Reference" # Used in routes, e.g., /admin/collections/blog
+  - name: "reference" # Used in routes, e.g., /admin/collections/blog
     label: "Reference" # Used in the UI
-    folder: "references" # The path to the folder where the documents are stored
+    folder: "/content/references" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Název", name: "title", widget: "string"}
+      - {label: "Přední fotografie", name: "frontImg", widget: "image"}
+      - {label: "Další fotografie", name: "secondImg", widget: "image"}
+      - {label: "Popis", name: "text", widget: "markdown"}
