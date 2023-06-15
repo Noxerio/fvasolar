@@ -1,13 +1,12 @@
 <script setup>
     const { data } = await useAsyncData(
-        `references`
+        `references`,
+        () => queryContent(`references`).findOne()
     );
     console.log(data);
 </script>
 <template>
     <div>
-        <div>
-        </div>
         <Header/>
         <main>
             <SectionsAbout/>
