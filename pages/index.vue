@@ -7,7 +7,6 @@
 <template>
     <div>
         <div>
-            <img :src="data.img">
         </div>
         <Header/>
         <main>
