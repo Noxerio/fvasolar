@@ -1,9 +1,15 @@
 <script setup>
     const { data } = await useAsyncData(
         `references`,
-        () => queryContent(`references`).find()
+        () => queryContent(`đreferences`).find()
     );
     console.log(data);
+
+    
+</script>
+
+<script setup>
+
 </script>
 <template>
     <div>
@@ -15,6 +21,7 @@
             <SectionsEnergyHelp/>
             <SectionsGuaranty/>
             <SectionsContact/>
+            <SectionsTabs/>
         </main>
         
         <ModalsContact/>
