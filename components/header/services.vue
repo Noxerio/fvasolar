@@ -1,5 +1,5 @@
 <template>
-    <div class="md:grid grid-cols-3 justify-center md:relative container mx-auto md:px-4 bottom-20">
+    <div v-motion-fade class="md:grid grid-cols-3 justify-center md:relative container mx-auto md:px-4 bottom-20">
         <div class="bg-slate-800 p-7">
             <h2 class="text-white font-bold text-2xl pb-5 uppercase">INSTALACE FOTOVOLTAIKY</h2>
             <p class="text-white opacity-80">Ušetřete až 80 % nákladů za energie. Veškeré papírování vyřešíme za Vás. Návratnost investice činí maximálně 10 let. Poskytneme Vám individuální přístup a nabídku.</p>

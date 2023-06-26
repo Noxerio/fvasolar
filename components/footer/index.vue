@@ -1,6 +1,6 @@
 <template>
     <footer class="bg-slate-800">
-        <div class="container mx-auto px-5 md:grid grid-cols-2 md:grid-cols-4">
+        <div  v-motion-pop-visible class="container mx-auto px-5 md:grid grid-cols-2 md:grid-cols-4">
             <div class="py-10">
                 <img class="grayscale invert p-8 hidden md:flex" src="/logo.png">
             </div>

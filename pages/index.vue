@@ -8,9 +8,6 @@
     
 </script>
 
-<script setup>
-
-</script>
 <template>
     <div>
         <Header/>

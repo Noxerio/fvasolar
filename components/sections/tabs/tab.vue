@@ -2,7 +2,7 @@
    const props = defineProps(["number", "title", "text"])
 </script>
 <template>
-    <div>
+    <div v-motion-pop-visible>
         <h2 :id="'accordion-collapse-heading-' + props.number">
             <button type="button" class="flex items-center justify-between w-full p-5 font-medium text-left text-gray-500 border rounded-xl mb-2 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-amber-300 dark:hover:bg-gray-800 shadow-md" :data-accordion-target="'#accordion-collapse-body-' + props.number" aria-expanded="true" :aria-controls="'accordion-collapse-body-' + props.number">
             <span>{{ props.title }}?</span>
