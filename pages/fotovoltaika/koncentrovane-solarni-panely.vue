@@ -5,11 +5,7 @@
 </script>
 <template>
     <div>
-        <div class="bg-amber-400">
-            <div class="container mx-auto">
-                <h1 class="py-16 text-center font-bold text-3xl">Koncentrované solární panely (CSP)</h1>
-            </div>
-        </div>
+        <AssetsSubHeader :title="'Koncentrované solární panely (CSP)'"/>
         <div class="container mx-auto p-8">
             <p>Koncentrované solární panely (CSP) jsou speciální typy solárních panelů, které využívají zrcadlových koncentrátorů pro soustředění slunečního světla na malou plochu. Zrcadlové koncentrátory mohou být buď parabolické, fresnelovy nebo konvexní. Tento typ solárních panelů se používá hlavně pro výrobu elektrické energie v průmyslovém měřítku.</p>
             

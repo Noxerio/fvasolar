@@ -2,7 +2,7 @@
     <footer class="bg-slate-800">
         <div  v-motion-pop-visible class="container mx-auto px-5 md:grid grid-cols-2 md:grid-cols-4">
             <div class="py-10">
-                <img class="grayscale invert p-8 hidden md:flex" src="/logo.png">
+                <img class="grayscale invert p-8 hidden md:flex" src="/img/logo.png">
             </div>
             <div class="py-10">
                 <ul class="text-white  flex flex-col gap-2">

@@ -5,11 +5,7 @@
 </script>
 <template>
     <div>
-        <div class="bg-amber-400">
-            <div class="container mx-auto">
-                <h1 class="py-16 text-center font-bold text-3xl">Monokrystalické fotovoltaické panely</h1>
-            </div>
-        </div>
+        <AssetsSubHeader :title="'Monokrystalické fotovoltaické panely'"/>
         <div class="container mx-auto p-8">
     <p>Monokrystalické fotovoltaické panely jsou vyrobeny z jednoho kusu krystalu křemíku. Tento proces zajišťuje vyšší účinnost panelů, protože krystaly jsou homogenní a umožňují průchod většího množství slunečního záření.</p>
     

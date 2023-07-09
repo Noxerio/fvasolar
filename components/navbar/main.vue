@@ -3,7 +3,7 @@
 <nav class="bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700 drop-shadow-md">
   <div class="container flex flex-wrap items-center justify-between mx-auto px-4 py-6">
     <NuxtLink to="/">
-      <img src="/logo.png" class="w-32 mr-3" alt="FVA-SOLAR" />
+      <img src="/img/logo.png" class="w-32 mr-3" alt="FVA-SOLAR" />
     </NuxtLink>
 
     <button data-collapse-toggle="navbar-dropdown" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-dropdown" aria-expanded="false">
@@ -67,8 +67,8 @@
                     <NuxtLink to="/fotovoltaika/fotovoltaicke-panely" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
                       Výkup elektřiny
                     </NuxtLink>
-                    <NuxtLink to="/fotovoltaika/fotovoltaicke-panely" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                      Energetické poradenství
+                    <NuxtLink to="/nova-zelena-usporam" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                      Nová zelená úsporám
                     </NuxtLink>
                   </li>
                 </ul>
@@ -80,7 +80,7 @@
           </NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/reference" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">
+          <NuxtLink to="/kariera" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">
             Kariéra
           </NuxtLink>
         </li>

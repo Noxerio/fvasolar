@@ -1,15 +1,11 @@
-<script>
+<script setup>
     definePageMeta({
     layout: "sub",
     });
 </script>
 <template>
     <div>
-        <div class="bg-amber-400">
-            <div class="container mx-auto">
-                <h1 class="py-16 text-center font-bold text-3xl">Bifaciální fotovoltaický panel</h1>
-            </div>
-        </div>
+        <AssetsSubHeader :title="'Bifaciální fotovoltaický panel'"/>
         <div class="container mx-auto p-8">
             <p>Bifaciální fotovoltaický panel je speciální typ solárního panelu, který dokáže využívat sluneční záření jak na přední straně, tak na zadní straně.</p>
 

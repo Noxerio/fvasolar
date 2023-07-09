@@ -5,11 +5,7 @@
 </script>
 <template>
     <div>
-        <div class="bg-amber-400">
-            <div class="container mx-auto">
-                <h1 class="py-16 text-center font-bold text-3xl">Tenkovrstvé fotovoltaické panely</h1>
-            </div>
-        </div>
+        <AssetsSubHeader :title="'Tenkovrstvé fotovoltaické panely'"/>
         <div class="container mx-auto p-8">
             <p>Tenkovrstvé fotovoltaické panely jsou vyráběny použitím tenkých vrstev fotovoltaických materiálů, jako jsou amorfický křemík, měděný indium galium selenid (CIGS) nebo kadmium tellurid (CdTe). Tyto materiály jsou aplikovány na podložku, obvykle skleněnou, pomocí procesů nanesení nebo sublimace.</p>
             

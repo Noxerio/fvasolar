@@ -1,7 +1,7 @@
 <template>
     <section class="container mx-auto my-10 px-5">
        <div class="relative z-30 w-full rounded-xl md:grid grid-cols-2 gap-9 p-5 
-            before:content-[''] before:absolute before:bg-slate-500 before:w-full before:h-full before:rounded-xl before:left-0 before:top-0 before:bg-[url('/bg-benefits.jpg')] before:grayscale before:opacity-30 before:bg-no-repeat before:bg-cover">
+            before:content-[''] before:absolute before:bg-slate-500 before:w-full before:h-full before:rounded-xl before:left-0 before:top-0 before:bg-[url('/img/bg-benefits.jpg')] before:grayscale before:opacity-30 before:bg-no-repeat before:bg-cover">
             <div v-motion-pop-visible  class="flex justify-center items-center flex-col">
                 <h2 class="text-center font-bold text-4xl mb-8">Výhody fotovoltaiky</h2>
                 <p class="relative  text-center mb-8 text-lg md:w-1/2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>

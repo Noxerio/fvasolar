@@ -5,11 +5,7 @@
 </script>
 <template>
     <div>
-        <div class="bg-amber-400">
-            <div class="container mx-auto">
-                <h1 class="py-16 text-center font-bold text-3xl">Polykrystalické solární panely</h1>
-            </div>
-        </div>
+        <AssetsSubHeader :title="'Polykrystalické solární panely'"/>
         <div class="container mx-auto p-8">
             <p>Polykrystalické solární panely jsou vyráběny z bloku silikonového krystalu, který se vytváří chladícím procesem zvaným Czochralskiho proces. V tomto procesu se z taveniny krystalů vytváří velký krystal, ze kterého se poté řežou tenké plátky, které slouží jako základ pro výrobu solárních panelů.</p>
             

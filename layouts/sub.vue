@@ -15,6 +15,8 @@ onMounted(() => {
             <HeaderSub/>
         </header>
         <slot/>
+        <SectionsEnergyHelp/>
+        <SectionsTabs/>
         <Footer/>
     </div>
 </template>

@@ -5,11 +5,7 @@
 </script>
 
 <template>
-    <div class="bg-amber-400">
-        <div class="container mx-auto">
-            <h1 class="py-16 text-center font-bold text-3xl">Fotovoltaické panely</h1>
-        </div>
-    </div>
+    <AssetsSubHeader :title="'Fotovoltaické panely'"/>
          <div class="container mx-auto p-8">
     <h1 class="text-3xl font-bold mb-4">Existuje několik druhů fotovoltaických panelů:</h1>
     
