@@ -33,31 +33,7 @@
                       Fotovoltaické panely
                     </NuxtLink>
                   </li>
-                  <li>
-                    <NuxtLink to="/fotovoltaika/monokrystalicke-fotovoltaicke-panely" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                      Monokrystalické fotovoltaické panely
-                    </NuxtLink>
-                  </li>
-                  <li>
-                    <NuxtLink to="/fotovoltaika/polykrystalicke-solarni-panely" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                      Polykrystalické solární panely
-                    </NuxtLink>
-                  </li>
-                  <li>
-                    <NuxtLink to="/fotovoltaika/tenkovrstve-fotovoltaicke-panely" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                      Tenkovrstvé fotovoltaické panely
-                    </NuxtLink>
-                  </li>
-                  <li>
-                    <NuxtLink to="/fotovoltaika/koncentrovane-solarni-panely" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                      Koncentrované solární panely
-                    </NuxtLink>
-                  </li>
-                  <li>
-                    <NuxtLink to="/fotovoltaika/bifacialni-fotovoltaicky-panel" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                      Bifaciální fotovoltaický panel
-                    </NuxtLink>
-                  </li>
+                 
                 </ul>
             </div>
         </li>
