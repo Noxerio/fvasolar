@@ -20,3 +20,5 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Název", name: "title", widget: "string"}
       - {label: "Přední fotografie", name: "frontImg", widget: "image"}
+      - {label: "Další fotografie", name: "secondImg", widget: "image"}
+      - {label: "Popis", name: "text", widget: "markdown"}
