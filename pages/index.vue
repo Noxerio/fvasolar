@@ -17,7 +17,7 @@
             <SectionsBenefits/>
             <SectionsEnergyHelp/>
             <SectionsGuaranty/>
-            <SectionsContact/>
+            <SectionsReferences/>
             <SectionsTabs/>
         </main>
         
