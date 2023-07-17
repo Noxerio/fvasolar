@@ -1,4 +1,4 @@
-<script setup>
+<!-- <script setup>
     const mail = useMail()
     const send = () => {
         mail.send({
@@ -8,7 +8,7 @@
         })
     }
     
-</script>
+</script> -->
 
 <template>
     <div>
