@@ -2,7 +2,6 @@
     const mail = useMail()
     const send = () => {
         mail.send({
-            to: 'patrik-nemec@email.cz',
             from: 'John Doe',
             subject: 'Incredible',
             text: 'This is an incredible test message',
