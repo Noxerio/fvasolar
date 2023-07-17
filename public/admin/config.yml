@@ -21,4 +21,4 @@ collections:
       - {label: "Název", name: "title", widget: "string"}
       - {label: "Přední fotografie", name: "frontImg", widget: "image"}
       - {label: "Další fotografie", name: "secondImg", widget: "image", required: false}
-      - {label: "Popis", name: "text", widget: "markdown"}
+      - {label: "Popis", name: "body", widget: "markdown"}
