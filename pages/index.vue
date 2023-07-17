@@ -14,11 +14,11 @@
         <main>
             <SectionsAbout/>
             <SectionsHow/>
-            <SectionsBenefits/>
+            <LazySectionsBenefits/>
             <SectionsEnergyHelp/>
             <SectionsGuaranty/>
             <SectionsReferences/>
-            <SectionsTabs/>
+            <LazySectionsTabs/>
         </main>
         
         <ModalsContact/>
