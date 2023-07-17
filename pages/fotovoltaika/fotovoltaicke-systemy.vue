@@ -1,5 +1,5 @@
 <template>
     <div>
-        test
+        <SectionsFotovoltaikaProces/>
     </div>
 </template>

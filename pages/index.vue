@@ -1,10 +1,13 @@
 <script setup>
-    const { data } = await useAsyncData(
-        `references`,
-        () => queryContent(`đreferences`).find()
-    );
-    console.log(data);
-
+    const mail = useMail()
+    const send = () => {
+        mail.send({
+            to: 'patrik-nemec@email.cz',
+            from: 'John Doe',
+            subject: 'Incredible',
+            text: 'This is an incredible test message',
+        })
+    }
     
 </script>
 
@@ -19,6 +22,7 @@
             <SectionsGuaranty/>
             <SectionsReferences/>
             <SectionsTabs/>
+            <button @click="send">Odeslat...</button>
         </main>
         
         <ModalsContact/>

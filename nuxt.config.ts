@@ -6,7 +6,22 @@ export default defineNuxtConfig({
     'nuxt-swiper',
     'nuxt-icon',
     '@nuxt/content',
-    '@vueuse/motion/nuxt'
+    '@vueuse/motion/nuxt',
+    [
+      'nuxt-mail',
+      {
+          message: {
+              to: process.env.EMAIL_TO,
+          },
+          smtp: {
+              service: 'gmail',
+              auth: {
+                  user: process.env.EMAIL_GMAIL_USER,
+                  pass: process.env.EMAIL_GMAIL_KEY,
+              }
+          },
+      }
+  ],
   ],
   app: {
     head: {

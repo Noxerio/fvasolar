@@ -39,5 +39,6 @@
             </div>
           </div>     
     <p class="mt-4 text-center font-light">Každý druh panelu má své výhody a nevýhody a vhodnost pro konkrétní aplikaci závisí na různých faktorech, jako jsou náklady, výkon, prostorové omezení a podmínky prostředí.</p>
+    <SectionsFotovoltaikaProces/>
   </div>
 </template>

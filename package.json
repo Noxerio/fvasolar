@@ -19,6 +19,7 @@
   "dependencies": {
     "@vueuse/motion": "^2.0.0",
     "flowbite": "^1.6.5",
+    "nuxt-mail": "^4.0.1",
     "nuxt-swiper": "^1.1.0"
   }
 }
