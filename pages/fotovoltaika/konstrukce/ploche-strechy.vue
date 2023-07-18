@@ -8,7 +8,7 @@
         <AssetsSubHeader :title="'Ploché střechy'"/>
         <div class="container mx-auto px-5 my-10">
             <div class="grid md:grid-cols-2 gap-8 mb-8">
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/1.png"></div>
                 <div>
                     <ul class="leading-8 list-disc pl-5">
                         <li>Varianty: Jih, východ/ západ</li>
@@ -35,10 +35,10 @@
                         <li>Volba pokládky panelů východ/západ umožní vyrábět elektřinu dřív a pozdeji přestat vyrábět </li>
                     </ul>
                 </div>
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/2.png"></div>
             </div>
             <div class="grid md:grid-cols-2 gap-8 mb-8">
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/3.png"></div>
                 <div>
                     <h2 class="text-2xl mb-5 font-semibold">Typ S-Dome</h2>
                     <ul class="leading-8 list-disc pl-5">
@@ -69,10 +69,10 @@
                         </ul>
                     </ul>
                 </div>
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/4.png"></div>
             </div>
             <div class="grid md:grid-cols-2 gap-8 mb-8">
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/5.png"></div>
                 <div>
                     <h2 class="text-2xl mb-5 font-semibold">Typ Tilt Up Vento</h2>
                     <ul class="leading-8 list-disc pl-5">
@@ -107,7 +107,7 @@
                         </ul>
                     </ul>
                 </div>
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/6.png"></div>
             </div>
         </div>
     </section>

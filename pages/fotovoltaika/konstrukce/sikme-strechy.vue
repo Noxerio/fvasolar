@@ -8,7 +8,7 @@
         <AssetsSubHeader :title="'Šikmé střechy'"/>
         <div class="container mx-auto px-5 my-10">
             <div class="grid md:grid-cols-2 gap-8 mb-8">
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/7.png"></div>
                 <div>
                     <ul class="leading-8 list-disc pl-5">
                         <li>Téměř na všechny hliněné a betonové tašky</li>
@@ -22,6 +22,11 @@
                         <li>K2 Systems SingleRail je k dispozici v několika variantách pro různé typy střech a je vhodný pro jak malé, tak i velké solární systémy. Montážní systém je navržen pro snadnou instalaci a minimalizuje poškození střechy. Systém K2 Systems SingleRail je také ekologickým řešením, které minimalizuje poškození střech a umožňuje snadnou demontáž solárního systému bez zanechání trvalých stop.</li>
                     </ul>
                 </div>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8 px-5 ">
+                <img src="/img/fotovoltaic/konstrukce/8.png">
+                <img src="/img/fotovoltaic/konstrukce/9.png">
+                <img src="/img/fotovoltaic/konstrukce/10.png">
             </div>
         </div>
     </section>

@@ -8,7 +8,7 @@
         <AssetsSubHeader :title="'Trapezové střechy'"/>
         <div class="container mx-auto px-5 my-10">
             <div class="grid md:grid-cols-2 gap-8 mb-8">
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/13.png"></div>
                 <div>
                     <ul class="leading-8 list-disc pl-5">
                         <li>Vysoká flexibilita umístění panelů horizontálně nebo vertikálně</li>
@@ -25,10 +25,10 @@
                         <li>Zajištění větrání modulů a zabránění jejich přehřívání a snížení účinnosti </li>
                     </ul>
                 </div>
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/14.png"></div>
             </div>
             <div class="grid md:grid-cols-2 gap-8 mb-8">
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/15.png"></div>
                 <div>
                     <p>Pomocí softwaru K2 Base, detailně navrhneme konstrukční řešení. Graficky zakreslíme montážní systém na základě kterého se vypočítá zatížení sněhem a větrem. Systém na základě těchto dat automaticky zvolí správné konstrukční řešení a jeho zatížení. Nakonec získáme montážní plán a přesný kusovník. </p>
                 </div>

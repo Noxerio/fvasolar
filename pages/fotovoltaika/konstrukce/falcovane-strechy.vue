@@ -8,7 +8,7 @@
         <AssetsSubHeader :title="'Falcované střechy'"/>
         <div class="container mx-auto px-5 my-10">
             <div class="grid md:grid-cols-2 gap-8 mb-8">
-                <div></div>
+                <div class="flex justify-center items-center"><img src="/img/fotovoltaic/konstrukce/12.png"></div>
                 <div>
                     <ul class="leading-8 list-disc pl-5">
                         <li>Různé druhy příchytek nám umožní uchycení na jakýkoliv falcovaný plech</li>
