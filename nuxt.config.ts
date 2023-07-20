@@ -7,13 +7,13 @@ export default defineNuxtConfig({
     'nuxt-icon',
     '@nuxt/content',
     '@vueuse/motion/nuxt',
-    ['@nuxtjs/google-fonts', {
-      families: {
-        Comfortaa: [400, 700],
-        download: true,
-        inject: true
-      }
-    }]
+    // ['@nuxtjs/google-fonts', {
+    //   families: {
+    //     Comfortaa: [400, 700],
+    //     download: true,
+    //     inject: true
+    //   }
+    // }]
   //   [
   //     'nuxt-mail',
   //     {
