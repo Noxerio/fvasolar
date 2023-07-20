@@ -1,7 +1,14 @@
 <script setup>
-    definePageMeta({
-    layout: "sub",
-    });
+useHead({
+  title: 'Vlnitý plech | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Vlnitý plech poskytuje skvělou platformu pro instalaci solárních panelů a využití sluneční energie. Získávejte elektřinu díky výhodám vlnitého plechu. Nabízíme instalaci solárních panelů na vlnitý plech, poradenství a podporu při výběru nejefektivnějšího solárního systému.' },
+    { name: 'keywords', content: 'Vlnitý plech, solární energie, solární panely, výhody vlnitého plechu, fotovoltaika, čistá energie, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <section>

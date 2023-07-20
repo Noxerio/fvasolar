@@ -1,7 +1,14 @@
-<script>
-    definePageMeta({
-    layout: "sub",
-    });
+<script setup>
+useHead({
+  title: 'Monokrystalické fotovoltaické panely | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Monokrystalické fotovoltaické panely jsou výkonnou technologií pro využití sluneční energie. Získávejte elektřinu efektivněji díky monokrystalickým panelym. Naše nabídka zahrnuje instalaci monokrystalických fotovoltaických panelů, poradenství a finanční podporu pro zelenou energetiku.' },
+    { name: 'keywords', content: 'Monokrystalické fotovoltaické panely, solární technologie, efektivní energie, sluneční energie, fotovoltaika, zelená energetika, úspory energie' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <div>

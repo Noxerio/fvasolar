@@ -1,7 +1,14 @@
-<script>
-    definePageMeta({
-    layout: "sub",
-    });
+<script setup>
+useHead({
+  title: 'Tenkovrstvé fotovoltaické panely | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Tenkovrstvé fotovoltaické panely jsou inovativním a flexibilním řešením pro výrobu elektrické energie. Využijte výhody tenkovrstvých panelů pro sluneční energii. Nabízíme instalaci tenkovrstvých fotovoltaických panelů, poradenství a podporu pro moderní solární technologie.' },
+    { name: 'keywords', content: 'Tenkovrstvé fotovoltaické panely, inovativní solární řešení, flexibilní solární technologie, sluneční energie, fotovoltaika, čistá energie, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <div>

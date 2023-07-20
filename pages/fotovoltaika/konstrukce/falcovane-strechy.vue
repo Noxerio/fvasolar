@@ -1,7 +1,14 @@
 <script setup>
-    definePageMeta({
-    layout: "sub",
-    });
+useHead({
+  title: 'Falcované střechy | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Falcované střechy nabízejí efektivní možnost pro instalaci solárních panelů a využití sluneční energie. Získávejte elektřinu díky výhodám falcovaných střech. Nabízíme instalaci solárních panelů na falcované střechy, poradenství a podporu při výběru nejlepšího solárního systému.' },
+    { name: 'keywords', content: 'Falcované střechy, solární energie, solární panely, výhody falcovaných střech, fotovoltaika, čistá energie, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <section>

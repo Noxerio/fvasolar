@@ -1,7 +1,14 @@
 <script setup>
-    definePageMeta({
-    layout: "sub",
-    });
+useHead({
+  title: 'Šikmé střechy | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Šikmé střechy nabízejí možnost optimalizace pro instalaci solárních panelů a využití sluneční energie. Získávejte elektřinu díky výhodám šikmých střech. Nabízíme instalaci solárních panelů na šikmé střechy, poradenství a podporu při výběru nejefektivnějšího solárního systému.' },
+    { name: 'keywords', content: 'Šikmé střechy, solární energie, solární panely, výhody šikmých střech, fotovoltaika, čistá energie, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <section>

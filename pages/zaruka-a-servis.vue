@@ -1,7 +1,14 @@
 <script setup>
- definePageMeta({
-    layout: "sub",
-    });
+useHead({
+  title: 'Záruka a servis | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Záruka a servis jsou důležité aspekty fotovoltaických systémů. Nabízíme spolehlivou záruku na naše solární panely a součásti. Poskytujeme kvalitní servis a údržbu pro optimální fungování vašeho fotovoltaického systému.' },
+    { name: 'keywords', content: 'Záruka a servis, fotovoltaický systém, solární panely, spolehlivost, kvalitní servis, údržba, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <div>

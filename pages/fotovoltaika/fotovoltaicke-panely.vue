@@ -1,7 +1,14 @@
 <script setup>
-    definePageMeta({
-    layout: "sub",
-    });
+useHead({
+  title: 'Fotovoltaické panely | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Fotovoltaické panely umožňují přeměnu slunečního záření na elektrickou energii. Zjistěte, jak mohou fotovoltaické panely snížit vaše náklady na elektřinu a přispět k udržitelnosti životního prostředí. Nabízíme instalaci fotovoltaických panelů, poradenství a podporu při výběru vhodného systému.' },
+    { name: 'keywords', content: 'Fotovoltaické panely, solární energie, čistá energie, sluneční záření, fotovoltaika, úspory energie, obnovitelné zdroje energie' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 
 <template>

@@ -1,7 +1,14 @@
 <script setup>
-    definePageMeta({
-    layout: "sub",
-    });
+useHead({
+  title: 'Trapezové střechy | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Trapezové střechy jsou ideální pro instalaci solárních panelů a využití sluneční energie. Získávejte elektřinu díky výhodám trapezových střech. Nabízíme instalaci solárních panelů na trapezové střechy, poradenství a podporu při výběru nejlepšího solárního systému.' },
+    { name: 'keywords', content: 'Trapezové střechy, solární energie, solární panely, výhody trapezových střech, fotovoltaika, čistá energie, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <section>

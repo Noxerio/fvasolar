@@ -1,7 +1,14 @@
 <script setup>
-    definePageMeta({
-    layout: "sub",
-    });
+useHead({
+  title: 'Ploché střechy | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Ploché střechy mají skvělý potenciál pro využití sluneční energie pomocí solárních panelů. Získávejte elektřinu díky výhodám plochých střech. Nabízíme instalaci solárních panelů na ploché střechy, poradenství a podporu při výběru optimálního solárního systému.' },
+    { name: 'keywords', content: 'Ploché střechy, solární energie, solární panely, výhody plochých střech, fotovoltaika, čistá energie, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <section>

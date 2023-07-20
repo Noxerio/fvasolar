@@ -1,4 +1,11 @@
 <script setup>
+useHead({
+title: 'Nová zelená úsporám | FVA Solar',
+meta: [
+{ name: 'description', content: 'Nová zelená úsporám je program Ministerstva životního prostředí České republiky, který podporuje úspory energie a využívání obnovitelných zdrojů energie v domácnostech. Program nabízí dotace na zateplení budov, výměnu oken a dveří, instalaci solárních panelů a dalších opatření pro snížení energetické náročnosti domácností.' },
+{ name: 'keywords', content: 'Nová zelená úsporám, dotace, úspory energie, obnovitelné zdroje energie, zateplení, výměna oken a dveří, solární panely' }
+]
+}),
  definePageMeta({
     layout: "sub",
     });

@@ -1,4 +1,11 @@
 <script setup>
+useHead({
+title: 'Kariéra | FVA Solar',
+meta: [
+{ name: 'description', content: 'Hledáte kariéru ve fotovoltaice? Jsme lídrem v oboru fotovoltaických systémů a hledáme kvalifikované kandidáty na různé pozice. Pokud máte zájem o práci v oblasti obnovitelných zdrojů energie, kontaktujte nás ještě dnes a domluvte si nezávaznou schůzku.' },
+{ name: 'keywords', content: 'fotovoltaika, solární panely, obnovitelné zdroje energie, kariéra, FVA Solar' }
+]
+}),
  definePageMeta({
     layout: "sub",
     });

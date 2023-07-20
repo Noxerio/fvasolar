@@ -9,7 +9,7 @@ export default defineNuxtConfig({
     '@vueuse/motion/nuxt',
     ['@nuxtjs/google-fonts', {
       families: {
-        'Comfortaa': true,
+        Comfortaa: [400, 700],
         download: true,
         inject: true
       }

@@ -1,7 +1,14 @@
-<script>
-    definePageMeta({
-    layout: "sub",
-    });
+<script setup>
+useHead({
+  title: 'Koncentrované solární panely (CSP) | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Koncentrované solární panely (CSP) jsou efektivním způsobem využití sluneční energie. Získávejte čistou energii díky koncentrovaným panelům. Nabízíme instalaci koncentrovaných solárních panelů, poradenství a podporu pro využití sluneční energie.' },
+    { name: 'keywords', content: 'Koncentrované solární panely, CSP, solární energie, čistá energie, sluneční energie, efektivní využití energie, fotovoltaika, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <div>

@@ -1,7 +1,14 @@
-<script>
-    definePageMeta({
-    layout: "sub",
-    });
+<script setup>
+useHead({
+  title: 'Polykrystalické solární panely | FVA Solar',
+  meta: [
+    { name: 'description', content: 'Polykrystalické solární panely jsou efektivním způsobem, jak využít sluneční energii pro výrobu elektřiny. Získávejte čistou energii díky polykrystalickým panelům. Nabízíme instalaci polykrystalických solárních panelů, poradenství a finanční podporu pro zelenou energetiku.' },
+    { name: 'keywords', content: 'Polykrystalické solární panely, solární energie, sluneční energie, fotovoltaika, čistá energie, zelená energetika, úspory energie' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 </script>
 <template>
     <div>
