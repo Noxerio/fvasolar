@@ -8,8 +8,8 @@
         <AssetsSubHeader :title="'Konstrukce'"/>
         <div class="container mx-auto px-5 py-10">
             <section class="grid md:grid-cols-2 mb-10">
-                <div class="flex">
-                    <img src="/img/fotovoltaic/logo.png" class="mx-auto p-16">
+                <div class="flex items-center">
+                    <img src="/img/fotovoltaic/logo.png" class="mx-auto  w-96">
                 </div>
                 <div>
                     <p class="pb-5 text-lg leading-8">Montážní systém je jedním z klíčových prvků Vaší elektrárny. Proto využíváme vysoce kvalitní německý montážní systém K2 systems. K2 Systems je německá společnost specializující se na výrobu a dodávky solárních montážních systémů. Jejich konstrukce je navržena tak, aby byla snadno a rychle instalovatelná, odolná proti vlivům počasí a zároveň esteticky působivá.

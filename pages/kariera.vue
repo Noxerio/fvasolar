@@ -13,7 +13,7 @@ meta: [
 <template>
    <div>
         <AssetsSubHeader :title="'Kariéra'"/>
-        <div class="container mx-auto p-8 grid grid-cols-2 gap-8">
+        <div class="container mx-auto p-8 grid md:grid-cols-2 gap-8">
             <div>
                 <h2 class="font-bold text-4xl pb-5">Administrativní pracovník</h2>
                 <p class="font-bold pb-5 opacity-60">Na pozici administrativního pracovníka hledáme nového spolehlivého kolegu/kolegyni HPP/DPP , nebo externě OSVČ.</p>

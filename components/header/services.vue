@@ -6,7 +6,7 @@
         </div>
         <div class="bg-amber-400 p-8 drop-shadow-2xl">
             <h2 class="text-slate-800 font-bold text-2xl pb-5 uppercase">Vyřízení dotace</h2>
-            <p class="text-slate-800 opacity-80">S námi získáte dotaci do 205 000 Kč - rychle a spolehlivě. Naše garance vyřízení vám zajistí podporu pro váš projekt.</p>
+            <p class="text-slate-800 opacity-80">S námi získáte dotaci rychle a spolehlivě. Naše garance vyřízení vám zajistí podporu pro váš projekt.</p>
         </div>
         <div class="bg-slate-800 p-8">
             <h2 class="text-white font-bold text-2xl pb-5 uppercase">Kalkulace elektrárny</h2>

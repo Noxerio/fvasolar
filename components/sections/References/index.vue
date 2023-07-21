@@ -15,8 +15,10 @@
                 <SectionsReferencesReference v-for="reference in references" :key="reference._path" :image="reference.frontImg" :title="reference.title" :path="reference._path"/>
             </div>
             <div class="flex justify-center gap-8 items-center mt-20">
-                <button class="px-20 py-5 bg-slate-950 rounded-xl text-white font-bold">Chci vidět vše</button>
-                <button class="px-20 py-5 border-slate-950  border-2 rounded-xl text-slate-950 font-bold">Načíst část</button>
+                <NuxtLink to="/reference">
+                    <button class="px-20 py-5 bg-slate-950 rounded-xl text-white font-bold">Chci vidět vše</button>
+                </NuxtLink>
+                
             </div>
         </div>
     </div>
