@@ -7,11 +7,17 @@
     );
 </script>
 <template>
-    <div>
-        <div>{{ data.title }}</div>
-        <div>{{ data.frontImg }}</div>
-        <div>{{ data.secondImg }}</div>
-        <div><ContentDoc /></div>
-    </div>
+    <section class="container mx-auto px-5 my-10">
+        <h2 class="text-center font-bold text-4xl mb-10">{{ data.title }}</h2>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div>
+                <img :src="data.frontImg" class="rounded-xl">
+                <img :src="data.secondImg" class="rounded-xl">
+            </div>
+            <div><ContentDoc class="text-lg leading-8"/></div>
+        </div>
+                
+        
+    </section>
     
 </template>
