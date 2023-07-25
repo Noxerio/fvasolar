@@ -12,7 +12,7 @@ definePageMeta({
 </script>
 
 <template>
-    <AssetsSubHeader :title="'Fotovoltaické panely'"/>
+     <AssetsSubHeader :title="'Fotovoltaické panely'"/>
         <div class="container mx-auto p-8">
           <div class="grid md:grid-cols-2 gap-8 my-5">
             <div class="h-full flex items-center">
