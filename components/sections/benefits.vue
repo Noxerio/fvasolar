@@ -3,7 +3,9 @@
        <div class="relative z-30 w-full rounded-xl md:grid grid-cols-2 gap-9 p-5 
             before:content-[''] before:absolute before:bg-slate-500 before:w-full before:h-full before:rounded-xl before:left-0 before:top-0 before:bg-[url('/img/bg-benefits.jpg')] before:grayscale before:opacity-30 before:bg-no-repeat before:bg-cover">
             <div v-motion-pop-visible  class="flex justify-center items-center flex-col">
-                <h2 class="text-center font-bold text-4xl mb-8">Výhody fotovoltaiky</h2>
+                <h2 class="text-center font-bold text-4xl mb-8"><span class="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-amber-400 relative inline-block before:rounded-lg">
+                <span class="relative text-white drop-shadow-xl">Výhody</span>
+            </span>fotovoltaiky</h2>
                 <p class="relative  text-center mb-8 text-lg md:w-1/2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
                 <a class="relative px-10 py-3 bg-amber-400 rounded-xl w-fit mx-auto mb-5 md:mb-0" data-modal-target="defaultModal" data-modal-toggle="defaultModal">Mám zájem</a>
             </div>

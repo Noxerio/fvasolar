@@ -1,6 +1,8 @@
 <template>
     <div class="container mx-auto px-5 lg:w-1/2 mb-8">
-        <h2 class="text-4xl text-center font-bold m-8">Chcete vědět více?</h2>
+        <h2 class="text-4xl text-center font-bold m-8">Chcete <span class="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-amber-400 relative inline-block before:rounded-lg">
+                <span class="relative text-white drop-shadow-xl">vědět</span>
+            </span>více?</h2>
         <div id="accordion-collapse" data-accordion="collapse">
             <SectionsTabsTab :number="1" 
             :title="'Nezavazná poptávka'" 

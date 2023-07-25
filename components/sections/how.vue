@@ -1,6 +1,8 @@
 <template>
     <section class="container mx-auto flex flex-col items-center mt-16 px-5">
-        <h2 v-motion-pop-visible  class="text-center text-4xl font-bold" style="max-width:800px">Jak funguje fotovoltaická elektrárna</h2>
+        <h2 v-motion-pop-visible  class="text-center text-4xl font-bold" style="max-width:800px">Jak funguje <span class="before:block before:absolute before:-inset-1 before:-skew-y-2 before:bg-amber-400 relative inline-block before:rounded-lg">
+                <span class="relative text-white drop-shadow-xl">fotovoltaická</span>
+            </span> elektrárna</h2>
         <div  class="grid-cols-2 gap-8 mt-10 md:grid md:grid-cols-3 lg:grid-cols-4 flex flex-col">
             <div v-motion-pop-visible  class="bg-slate-100 p-12 rounded-xl">
                 <img src="/img/functions/1.svg" class="w-full p-5">
