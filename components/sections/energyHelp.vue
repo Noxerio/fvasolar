@@ -13,7 +13,9 @@
                 </ul>
             </div>
             <div v-motion-pop-visible class="flex justify-center items-center flex-col gap-8">
+                <NuxtLink to="/kontakt">
                 <button class="p-5 bg-amber-400 rounded-xl px-12 font-bold">Konzultace zdarma</button>
+            </NuxtLink>
             </div>
         </div>
     </section>

@@ -5,12 +5,12 @@
             <div class=" rounded-xl">
                 <h2 class="text-center p-5 text-4xl font-bold">Neváhejte nás kontaktovat</h2>
                 <div class="grid md:grid-cols-2 px-5 text-center p-5 gap-8">
-                    <div class="bg-slate-100 rounded-xl p-5">
+                    <div class="bg-amber-400 rounded-xl p-5">
                         <Icon class="mb-5" name="material-symbols:call-outline" size="48" />
                         <p class="font-bold text-xl">+420 777 555 666</p>
                     </div>
                     
-                    <div class="bg-slate-100 rounded-xl p-5">
+                    <div class="bg-amber-400 rounded-xl p-5">
                         <Icon class="mb-5" name="material-symbols:mail-outline" size="48" />
                         <p class="font-bold text-xl">info@fva-solar.cz</p>
                     </div>

@@ -7,8 +7,10 @@
                 <span class="relative text-white drop-shadow-xl">Výhody</span>
             </span>fotovoltaiky</h2>
                 <p class="relative  text-center mb-8 text-lg md:w-1/2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+                <NuxtLink to="/kontakt">
                 <a class="relative px-10 py-3 bg-amber-400 rounded-xl w-fit mx-auto mb-5 md:mb-0" data-modal-target="defaultModal" data-modal-toggle="defaultModal">Mám zájem</a>
-            </div>
+                </NuxtLink>
+        </div>
             <div class="md:grid grid-cols-2 gap-9 ">
                 <div v-motion-pop-visible  class="shadow-2xl mb-5 md:mb-0 rounded-2xl p-9 md:skew-y-3 bg-slate-50 relative md:top-9 transition-all duration-700 hover:scale-110 hover:cursor-pointer hover:drop-shadow-md ">
                     <h3 class="text-2xl mb-3 font-bold">Snížení nákladů na energii</h3>

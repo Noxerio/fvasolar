@@ -12,7 +12,9 @@
             <h2 class="text-white font-bold text-2xl pb-5 uppercase">Kalkulace elektrárny</h2>
             <p class="text-white flex flex-col gap-4">
                 Pár kliknutí a máte hotovou předběžnou kalkulaci včetně naší nabídky.
-                <button class="bg-amber-400 text-slate-800 px-8 py-3 rounded-lg font-bold w-fit"><Icon name="material-symbols:arrow-circle-down-outline" size="1.5rem"/> Online kalkulace</button>
+                <a href="https://viwi.netlify.app/fvaform">
+                    <button class="bg-amber-400 text-slate-800 px-8 py-3 rounded-lg font-bold w-fit"><Icon name="material-symbols:arrow-circle-down-outline" size="1.5rem"/> Online kalkulace</button>
+                </a>
             </p>
         </div>
     </div>
