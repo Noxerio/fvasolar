@@ -1,6 +1,6 @@
 <script setup>
   const { data } = await useAsyncData('references', () => queryContent('/references').find());
-  const references = useState('references', () => data.value.slice(0, 5))
+  const references = useState('references', () => data.value.slice(0, 8))
 </script>
 <template>
     <div class="py-32">
