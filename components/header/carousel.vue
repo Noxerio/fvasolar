@@ -1,6 +1,6 @@
 <template>
     <div class="w-full bg-slate-50 bg-cover bg-center bg-fixed border-b-4 border-amber-400">
-        <div class="w-full container mx-auto grid md:grid-cols-2 gap-16 items-center py-16 md:py-32 px-5">
+        <div class="w-full container mx-auto grid md:grid-cols-2 gap-16 items-center py-8 md:py-16 md:pb-32 px-5">
   
             <div v-motion-slide-left class="flex flex-col items-start justify-center gap-8 ">
                 <h1 class=" font-extrabold text-4xl md:text-6xl uppercase" style="line-height: 75px;">
