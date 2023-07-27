@@ -1,6 +1,6 @@
 ---
 title: Bad Feilnbach
-frontImg: /content/fva-solar-fotovoltaická-elektrárna-na-klíč-ostrava-brno-praha-olomouc-zlín-pardubice-hradec-králové-nzu-dotace-fotovoltaický-panel-fve-panel-fotovoltaika-s-akumulací-fotovoltaika50-1-.png
+frontImg: /content/918.png
 ---
 Město: Bad Feilnbach
 
