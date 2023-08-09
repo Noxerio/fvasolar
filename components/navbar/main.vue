@@ -26,7 +26,7 @@
                 <ul class="py-2 text-sm text-gray-700 dark:text-gray-400 grid md:grid-cols-4 md:gap-8 md:py-8 px-8 md:px-0" aria-labelledby="dropdownLargeButton">
                   <li>
                     <NuxtLink to="/fotovoltaika/chytra-elektrarna" class="rounded-xl block px-4 py-2 md:text-lg md:font-bold hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white md:flex md:items-center">
-                      <img class="md:block hidden" src="/img/nav/nav_1.png">
+                      <img class="md:block hidden" src="/img/nav/nav_5.png">
                       Chytrá elektrárna
                     </NuxtLink>
                   </li>
