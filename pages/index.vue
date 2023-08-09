@@ -29,9 +29,10 @@ useHead({
             <SectionsGuaranty/>
             <SectionsReferences/>
             <SectionsTabs/>
-            <button @click="send">Odeslat...</button>
+            <SectionsBuy/>
         </main>
-        
+        <!-- <button @click="send">Odeslat...</button> -->
+
         <ModalsContact/>
     </div>
 </template>
