@@ -34,8 +34,9 @@ collections:
         label: "Soubory",
         name: "documentFiles",
         widget: "list",
-        summary: '{{fields.image}}',
-        field: {label: "File", name: "file", widget: file}
+        fields:
+          - {label: "Název", name: "title", widget: "string"}
+          - {label: "File", name: "file", widget: file}
       }
 
       
