@@ -35,7 +35,7 @@ collections:
         name: "documentFiles",
         widget: "list",
         summary: '{{fields.image}}',
-        field: {label: Image, name: image, widget: image}
+        field: {label: "File", name: "file", widget: file}
       }
 
       
