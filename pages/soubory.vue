@@ -13,11 +13,11 @@
         <div v-for="category in data" :key="category._path">
             <ul>
                 <li class="font-bold text-xl">{{ category.title }}</li>
-                <ul class="list-disc pl-5 leading-8 opacity-90" v-for="file in category.documentFiles" :key="soubor.file">
+                <ul class="list-disc pl-5 leading-8 opacity-90" v-for="file in category.documentFiles" :key="file.title">
                     <li class="hover:font-semibold"><a :href="file.file">{{ file.title }}</a></li>
                 </ul>
-            </ul>
-            <div >
+            </ul>      
+            <div>
             
             </div>
         </div>
