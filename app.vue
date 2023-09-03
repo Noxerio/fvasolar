@@ -1,4 +1,10 @@
-
+<script setup>
+useHead({
+htmlAttrs: {
+      lang: 'cs'
+    },
+})
+</script>
 <template>
     <NuxtLayout>
         <NuxtLoadingIndicator :duration="5000"/>
