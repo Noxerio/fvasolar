@@ -55,8 +55,8 @@
                       </NuxtLink>
                     </li>
                     <li>
-                      <NuxtLink to="/fotovoltaika/konstrukce" class=" rounded-xl block px-4 py-2 md:text-lg md:font-bold hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white md:flex md:items-center">
-                        <img class="md:block hidden" src="/img/nav/nav_3.png">
+                      <NuxtLink to="/fotovoltaika/fotovoltaicky-ohrev-vody" class=" rounded-xl block px-4 py-2 md:text-lg md:font-bold hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white md:flex md:items-center">
+                        <img class="md:block hidden" src="/img/nav/nav_14.png">
                         Fotovoltaický ohřev vody
                       </NuxtLink>
                     </li>
