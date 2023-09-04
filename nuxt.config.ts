@@ -8,6 +8,7 @@ export default defineNuxtConfig({
     'nuxt-icon',
     '@nuxt/content',
     '@vueuse/motion/nuxt',
+    '@nuxt/image',
   //   [
   //     'nuxt-mail',
   //     {
