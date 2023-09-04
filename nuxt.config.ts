@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  
+ 
   devtools: { enabled: true },
   modules: [
     '@nuxtjs/tailwindcss',
@@ -25,6 +25,12 @@ export default defineNuxtConfig({
   //     }
   // ],
   ],
+  image: {
+    provider: 'netlify',
+    netlify: {
+      baseURl: process.env.IMAGES_URL
+    }
+  },
   app: {
     head: {
       script: [
