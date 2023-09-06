@@ -1,6 +1,6 @@
 <template>
     <div>
-        <HeaderCarousel/>
+        <HeaderVideo/>
         <HeaderServices/>
     </div>
 </template>
