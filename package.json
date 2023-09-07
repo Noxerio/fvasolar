@@ -22,6 +22,7 @@
     "@vueuse/motion": "^2.0.0",
     "flowbite": "^1.6.5",
     "nuxt-mail": "^4.0.1",
-    "nuxt-swiper": "^1.1.0"
+    "nuxt-swiper": "^1.1.0",
+    "nuxt-video-player": "^1.0.17"
   }
 }
