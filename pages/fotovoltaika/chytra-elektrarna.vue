@@ -22,14 +22,14 @@ definePageMeta({
                    <p class="leading-8 opacity-70">
 Optimizéry Tigo minimalizují vliv stínu a nesoulad výkonu fotovoltaických modulů, proto můžete vytěžit z fotovoltaického systému maximum. Zvýšený energetický výnos díky optimalizaci je vidět na monitorovací platformě Tigo Energy Intelligence.</p>
                 </div>
-                <video class="rounded-xl drop-shadow-xl" loop="" autoplay="" muted="">
+                <video class="rounded-xl drop-shadow-xl" loop="" autoplay="" muted="" playsinline>
                 <source src="/img/tigo2.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
             </div>
             
             <div class="grid md:grid-cols-2 gap-8 justify-center items-center mb-10">
-                <video class="rounded-xl drop-shadow-xl" loop="" autoplay="" muted="">
+                <video class="rounded-xl drop-shadow-xl" loop="" autoplay="" muted="" playsinline>
                 <source src="/img/tigo1.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
