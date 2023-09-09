@@ -2,11 +2,12 @@
 title: Starnberg
 frontImg: /content/868.png
 ---
-<!--StartFragment-->
+Město: Starnberg
 
-Město: Starnberg\
-Rozloha: 42m2\
-Výkon:  8,69 kWp\
-Baterie:  14,4kWh
+Rozloha: 42m2
 
-<!--EndFragment-->
+Výkon: 8,69 kWp
+
+Baterie: 14,4kWh
+
+Počet panelů: 22
