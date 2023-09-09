@@ -2,11 +2,12 @@
 title: Bodenkirchen
 frontImg: /content/850.png
 ---
-<!--StartFragment-->
+Město: Bodenkirchen
 
-Město: Bodenkirchen\
-Rozloha: 47m2\
-Výkon: 9,62 kWp\
-Baterie: 6,4 kWh
+Rozloha: 47m2
 
-<!--EndFragment-->
+Výkon:  9,62 kWp
+
+Baterie:  6,4 kWh
+
+Počet panelů: 26
