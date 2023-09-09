@@ -9,6 +9,6 @@ Rozloha:  31m2
 
 Výkon: 6,38 kWp
 
-Baterie:11,6 kWh
+Baterie: 11,6 kWh
 
 Počet panelů: 15
