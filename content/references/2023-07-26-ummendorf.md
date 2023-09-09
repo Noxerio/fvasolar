@@ -2,10 +2,12 @@
 title: Ummendorf
 frontImg: /content/854.png
 ---
-<!--StartFragment-->
+Město: Ummendorf
 
-Město: Ummendorf\
-Rozloha: 150 m2\
+Rozloha: 150 m2
+
 Výkon: 31,08 kWp
 
-<!--EndFragment-->
+Baterie: 10 kWh
+
+Počet panelů: 84
