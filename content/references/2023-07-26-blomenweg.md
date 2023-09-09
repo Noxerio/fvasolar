@@ -2,11 +2,12 @@
 title: Blomenweg
 frontImg: /content/851.png
 ---
-<!--StartFragment-->
+Město: Blomenweg
 
-Město: Blomenweg\
-Rozloha: 45 m2\
-Výkon: 9,75 kWp\
-Baterie: 8 kWh
+Rozloha: 45 m2
 
-<!--EndFragment-->
+Výkon:  9,75 kWp
+
+Baterie:  8 kWh
+
+Počet panelů: 25
