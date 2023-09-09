@@ -12,3 +12,5 @@ Výkon:  9,9 kWp
 Baterie:  11,6 kWh
 
 Počet panelů: 18
+
+Dotace: ANO
