@@ -10,4 +10,4 @@ Výkon:  24 kWp
 
 Baterie:  18 kWh
 
-Počet panelů: 60 sdsdsds
+Počet panelů: 60 ks
