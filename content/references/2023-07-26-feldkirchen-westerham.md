@@ -2,11 +2,12 @@
 title: Feldkirchen-Westerham
 frontImg: /content/853.png
 ---
-<!--StartFragment-->
+Město: Feldkirchen-Westerham
 
-Město: Feldkirchen-Westerham\
-Rozloha: 43 m2\
-Výkon: 9,24 kWp\
-Baterie: 8 kWh
+Rozloha: 43 m2
 
-<!--EndFragment-->
+Výkon: 9,24 kWp
+
+Baterie:  8 kWh
+
+Počet panelů: 24
