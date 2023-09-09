@@ -2,11 +2,12 @@
 title: Hohenkammer
 frontImg: /content/865.png
 ---
-<!--StartFragment-->
+Město: Hohenkammer
 
-Město: Hohenkammer\
-Rozloha: 300 m2\
-Výkon: 60 kWp\
-Baterie: 24 kWh
+Rozloha: 300 m2
 
-<!--EndFragment-->
+Výkon: 60 kWp
+
+Baterie:  24 kWh
+
+Počet panelů: 160
