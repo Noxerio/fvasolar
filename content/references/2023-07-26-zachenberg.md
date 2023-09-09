@@ -2,11 +2,12 @@
 title: Zachenberg
 frontImg: /content/870.png
 ---
-<!--StartFragment-->
+Město: Zachenberg
 
-Město: Zachenberg\
-Rozloha: 99 m2\
-Výkon:  20,25 kWp\
-Baterie:  23,2 kWh
+Rozloha: 99 m2
 
-<!--EndFragment-->
+Výkon: 20,25 kWp
+
+Baterie: 23,2 kWh
+
+Počet panelů: 49
