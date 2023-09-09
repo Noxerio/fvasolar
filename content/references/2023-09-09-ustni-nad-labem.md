@@ -1,9 +1,9 @@
 ---
-title: Ústní nad Labem
+title: Ústí nad Labem
 frontImg: /content/dji_fly_20230526_192932_666_1685122295163_photo_optimized.jpg
 secondImg: /content/novák-fve.jpg
 ---
-Město: Ústní nad Labem
+Město: Ústí nad Labem
 
 Rozloha:  31m2
 
