@@ -2,11 +2,12 @@
 title: Aldersbach
 frontImg: /content/857.png
 ---
-<!--StartFragment-->
+Město:Aldersbach
 
-Město: Aldersbach\
-Rozloha: 104 m2\
-Výkon:  14,76 kWp\
-Baterie:  11,6 kWh
+Rozloha: 104 m2
 
-<!--EndFragment-->
+Výkon:  14,76 kWp
+
+Baterie:  11,6 kWh
+
+Počet panelů: 36
