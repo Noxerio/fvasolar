@@ -2,7 +2,7 @@
 title: Aldersbach
 frontImg: /content/857.png
 ---
-Město:Aldersbach
+Město: Aldersbach
 
 Rozloha: 104 m2
 
