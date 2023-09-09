@@ -2,11 +2,12 @@
 title: Rosenheim
 frontImg: /content/886.png
 ---
-<!--StartFragment-->
+Město: Rosenheim
 
-Město: Rosenheim\
-Rozloha: 45 m2\
-Výkon:  9,2 kWp\
-Baterie:  9,5 kWh
+Rozloha: 45 m2
 
-<!--EndFragment-->
+Výkon: 9,2 kWp
+
+Baterie: 9,5 kWh
+
+Počet panelů: 23
