@@ -2,11 +2,12 @@
 title: Hohenbrunn
 frontImg: /content/877.png
 ---
-<!--StartFragment-->
+Město: Hohenbrunn
 
-Město: Hohenbrunn\
-Rozloha: 100 m2\
-Výkon:  20 kWp\
-Baterie:  17,4 kWh
+Rozloha: 100 m2
 
-<!--EndFragment-->
+Výkon: 20 kWp
+
+Baterie:  17,4 kWh
+
+Počet panelů: 51
