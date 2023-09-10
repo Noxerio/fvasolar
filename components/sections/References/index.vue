@@ -10,7 +10,7 @@
                 <span class="relative text-white drop-shadow-xl">výsledky</span>
             </span>
             </h2>
-            <p class="mb-11 text-center italic opacity-80">Naše realizace fotovoltaické elektrárny na rodinných domech, komerčních budovách a náhled pozemních instalací.</p>
+            <p class="mb-11 text-center italic opacity-80">Naše realizace fotovoltaických elektráren z blízka na rodinných domech a komerčních budovách.</p>
             <div class="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-8 justify-center ">
                 <SectionsReferencesReference v-for="reference in references" :key="reference._path" :image="reference.frontImg" :title="reference.title" :path="reference._path"/>
             </div>
