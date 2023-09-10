@@ -9,4 +9,6 @@ documentFiles:
     title: Axitec - AXIpremium XXL HC 530-550Wp
   - file: /content/ja-solar-jam66s30-480-505-mr.pdf
     title: JA Solar - JAM66S30 480-505/MR
+  - file: /content/jinko-solar-tiger-neo-n-type-54hl4-v-410-430-watt.pdf
+    title: Jinko Solar Tiger Neo N-type 54HL4-(V) 410-430 Watt
 ---
