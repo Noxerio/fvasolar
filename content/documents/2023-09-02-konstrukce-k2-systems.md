@@ -5,4 +5,6 @@ documentFiles:
     title: Střešní tašky - SingleRail
   - title: Plochá střecha - S dome 6 xpress
     file: /content/plochá-střecha-s-dome-6-xpress-en.pdf
+  - title: Plochá střecha Výcho/Západ - D Dome 6 System Xpress and Classic
+    file: /content/plochá-střecha-d-dome-6-en.pdf
 ---
