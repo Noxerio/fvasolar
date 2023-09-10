@@ -9,4 +9,6 @@ documentFiles:
     file: /content/plochá-střecha-d-dome-6-en.pdf
   - title: Plochá střecha - TiltUp Vento System
     file: /content/tiltup-vento-assembly-en.pdf
+  - title: Triangl - MULTIANGLE SYSTEM
+    file: /content/ma_multiangle_en-1-.pdf
 ---
