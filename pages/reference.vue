@@ -1,7 +1,7 @@
 <script setup>
 
-const { data } = await useAsyncData('references', () => queryContent('/references').find());
-const referencess = useState('references', () => data.value.slice().reverse())
+const { data } = await useAsyncData('referencess', () => queryContent('/references').find());
+const referencess = useState('referencess', () => data.value.slice().reverse())
 
 </script>
 
