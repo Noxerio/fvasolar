@@ -11,4 +11,6 @@ documentFiles:
     title: JA Solar - JAM66S30 480-505/MR
   - file: /content/jinko-solar-tiger-neo-n-type-54hl4-v-410-430-watt.pdf
     title: Jinko Solar Tiger Neo N-type 54HL4-(V) 410-430 Watt
+  - file: /content/leapton-solar-lp182-182-m-72-mh-530-550wp.pdf
+    title: Leapton Solar - LP182*182-M-72-MH 530-550Wp
 ---
