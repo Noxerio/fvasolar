@@ -7,7 +7,7 @@
                 <div class="grid md:grid-cols-2 px-5 text-center p-5 gap-8">
                     <div class="bg-amber-400 rounded-xl p-5">
                         <Icon class="mb-5" name="material-symbols:call-outline" size="48" />
-                        <p class="font-bold text-xl">+420 777 555 666</p>
+                        <p class="font-bold text-xl">+420 605 494 441</p>
                     </div>
                     
                     <div class="bg-amber-400 rounded-xl p-5">

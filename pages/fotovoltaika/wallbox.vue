@@ -28,10 +28,11 @@ definePageMeta({
             </div>
             <div>
                 <p class="text-center leading-8 mb-5">Dovolte, abychom Vás provedli revolučním způsobem, jakým budete dobíjet své elektrické vozidlo. Autonabíječka Solax přináší špičkovou technologii přímo do Vašeho domova nebo podniku, umožňující Vám dobít vaše vozidlo rychle, efektivně a s maximální pohodlností.
-                Co dělá naši autonabíječku Solax jedinečnou?</p>
+                </p>
                 <img class="my-20" src="/img/fotovoltaic/wallbox_main.png">
             </div>
             
+            <h2 class="text-center font-bold text-3xl mb-20">Co dělá naši autonabíječku Solax jedinečnou?</h2>
             <div class="md:grid grid-cols-3 mt-5 gap-8 flex flex-col">
                 <div>
                     <h3 class="mb-3 font-bold text-xl"><span class="bg-amber-400 px-3 py-1 rounded-full mr-5">1</span>Výkon a rychlost</h3>
