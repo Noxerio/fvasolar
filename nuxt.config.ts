@@ -5,11 +5,11 @@ export default defineNuxtConfig({
   
   modules: [
     '@nuxtjs/tailwindcss',
-    'nuxt-swiper',
     'nuxt-icon',
     '@nuxt/content',
     '@vueuse/motion/nuxt',
     '@nuxt/image',
+    '@vueuse/nuxt',
   //   [
   //     'nuxt-mail',
   //     {
