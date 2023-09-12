@@ -1,7 +1,7 @@
 ---
 title: Čelákovice
-frontImg: /content/dji_fly_20230721_184936_775_1690027207809_photo_optimized.jpg
-secondImg: /content/hadera-fve-1-.jpg
+frontImg: /content/dji_fly_20230721_184936_775_1690027207809_photo_optimized-min.jpg
+secondImg: /content/hadera-fve-1-min.jpg
 ---
 Město: Čelákovice
 
