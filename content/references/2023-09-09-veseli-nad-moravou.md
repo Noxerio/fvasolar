@@ -1,7 +1,7 @@
 ---
 title: Veselí nad Moravou
-frontImg: /content/dji_fly_20230717_162620_742_1689604080104_photo_optimized.jpg
-secondImg: /content/img_4720.jpg
+frontImg: /content/dji_fly_20230717_162620_742_1689604080104_photo_optimized-min.jpg
+secondImg: /content/img_4720-min.jpg
 ---
 Město: Veselí nad Moravou
 
