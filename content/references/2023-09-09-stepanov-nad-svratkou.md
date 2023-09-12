@@ -1,6 +1,6 @@
 ---
 title: Štěpánov nad Svratkou
-frontImg: /content/dji_fly_20230812_174006_830_1691854842631_photo_optimized.jpeg
+frontImg: /content/dji_fly_20230812_174006_830_1691854842631_photo_optimized-1-min.jpeg
 secondImg: /content/brázda-fve1-2-.jpg
 ---
 Město: Štěpánov nad Svratkou
