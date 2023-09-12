@@ -1,6 +1,6 @@
 ---
 title: Velká Bíteš
-frontImg: /content/dji_fly_20230510_162002_648_1683728468884_photo_optimized.jpeg
+frontImg: /content/dji_fly_20230510_162002_648_1683728468884_photo_optimized-1-min.jpeg
 ---
 Město: Velká Bíteš
 
