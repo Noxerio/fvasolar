@@ -1,6 +1,6 @@
 ---
 title: Darkovice
-frontImg: /content/dji_fly_20230527_210158_670_1685214158620_photo_optimized.jpeg
+frontImg: /content/dji_fly_20230527_210158_670_1685214158620_photo_optimized-min.jpeg
 ---
 Město: Darkovice
 
