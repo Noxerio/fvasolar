@@ -1,6 +1,6 @@
 ---
 title: Kostelec nad Labem
-frontImg: /content/dji_fly_20230317_180050_620_1679072579353_photo_optimized.jpeg
+frontImg: /content/dji_fly_20230317_180050_620_1679072579353_photo_optimized-2-min.jpeg
 secondImg: ""
 ---
 Město: Kostelec nad Labem
