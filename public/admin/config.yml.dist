@@ -10,6 +10,7 @@ locale: 'cs'
 slug:
   clean_accents: true
 
+collections:
   - name: "reference" # Used in routes, e.g., /admin/collections/blog
     label: "Reference" # Used in the UI
     folder: "/content/references" # The path to the folder where the documents are stored
