@@ -1,6 +1,6 @@
 ---
 title: Šestajovice
-frontImg: /content/dji_fly_20230728_114640_796_1690537775663_photo_optimized.jpeg
+frontImg: /content/dji_fly_20230728_114640_796_1690537775663_photo_optimized-1-min.jpeg
 ---
 Město: Šestajovice
 
