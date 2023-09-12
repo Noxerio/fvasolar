@@ -1,7 +1,7 @@
 ---
 title: Ústí nad Labem
-frontImg: /content/dji_fly_20230526_192932_666_1685122295163_photo_optimized.jpg
-secondImg: /content/novák-fve.jpg
+frontImg: /content/dji_fly_20230526_192932_666_1685122295163_photo_optimized-1-min.jpg
+secondImg: /content/novák-fve-min.jpg
 ---
 Město: Ústí nad Labem
 
