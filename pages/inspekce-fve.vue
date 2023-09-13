@@ -17,7 +17,7 @@ meta: [
             <div class="flex flex-col gap-6 leading-8 mb-8">
                 <p>Inspekce fotovoltaické elektrárny termokamerou je důležitá pro zjištění případných anomálií a problémů v chodu solárního systému. Tato inspekce se provádí pomocí speciální kamery, která dokáže zachytit infračervené záření z objektů, které jsou mnohdy skryté pro oko.
                 </p>
-                <p>Při inspekci fotovoltaické elektrárny termokamerou jsou kontrolovány výkonné kabely, konektory, moduly, inverzní měniče a další části solárního systému. Infračervená kamera dokáže zobrazit teplotní rozdíly v různých částech systému, což umožňuje detekovat případné poruchy a problémy, které by jinak nebyly viditelné.
+                <p>Inspekce fotovoltaické elektrárny napomáhá k brzkému zjištění závad fotovoltaických panelů a také zda provedená montáž byla správná. Infračervená kamera dokáže zobrazit teplotní rozdíly v různých částech systému, což umožňuje detekovat případné poruchy a problémy, které by jinak nebyly viditelné.
                 </p>
                 <p>Při této inspekci se kontroluje kvalita spojení v kabelech, zda nedochází k přehřívání konektorů a kontaktů, případně jestli jsou některé panely méně výkonné než ostatní. Dále se také kontroluje, zda jsou moduly dobře namontované a zda nejsou poškozené nebo zanesené nečistotami.
                 </p>
