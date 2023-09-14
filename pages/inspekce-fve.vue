@@ -17,7 +17,7 @@ meta: [
             <div class="flex flex-col gap-6 leading-8 mb-8">
                 <p>Inspekce fotovoltaické elektrárny termokamerou je důležitá pro zjištění případných anomálií a problémů v chodu solárního systému. Tato inspekce se provádí pomocí speciální kamery, která dokáže zachytit infračervené záření z objektů, které jsou mnohdy skryté pro oko.
                 </p>
-                <p>Inspekce fotovoltaické elektrárny napomáhá k brzkému zjištění závad fotovoltaických panelů a také zda provedená montáž byla správná. Infračervená kamera dokáže zobrazit teplotní rozdíly v různých částech systému, což umožňuje detekovat případné poruchy a problémy, které by jinak nebyly viditelné.
+                <p>Inspekce fotovoltaické elektrárny napomáhá k brzkému zjištění závad fotovoltaických panelů a také zda provedená montáž byla správná. Infračervená kamera dokáže zobrazit teplotní rozdíly v různých částech systému, což umožňuje detekovat případné poruchy a problémy, které jinak nebyly viditelné.
                 </p>
                 <p>Při této inspekci se kontroluje kvalita spojení v kabelech, zda nedochází k přehřívání konektorů a kontaktů, případně jestli jsou některé panely méně výkonné než ostatní. Dále se také kontroluje, zda jsou moduly dobře namontované a zda nejsou poškozené nebo zanesené nečistotami.
                 </p>
@@ -66,6 +66,16 @@ meta: [
                 </h3>
                 <p class="leading-8">Spolupracujeme s několika společnostmi, které se věnují této problematice a rádi poskytnou řešení při opravě Vaší fotovoltaické elektrárny. Umožní Vám znovu dosáhnout instalovaného výkonu Vaší fotovoltaické elektrárny.
                 </p>
+            </div>
+            <div class="mx-auto">
+                <h3 class="text-xl font-extrabold mb-5 mx-auto">
+                    Kontakt
+                </h3>
+                <p class="leading-8">Petr Švagerka</p>
+                <p class="leading-8">+420 605 795 795</p>
+                <p class="leading-8">info@dronmax.cz</p>
+
+                
             </div>
             <div class="mb-8 text-center">
                 <h3 class="text-xl font-extrabold mb-5 mx-auto">

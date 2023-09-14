@@ -39,6 +39,8 @@ meta: [
                 <p>Allianz pojišťovny, a.s.</p>
                 <p class="font-bold rounded-xl border-2 px-5 py-2 text-center my-5 text-xl">Tel: 732 614 213</p>
             </div>
+            <img src="/img/pojisteni.png" class="md:hidden mx-auto">
+
         </div>
     </div>
 </template>
