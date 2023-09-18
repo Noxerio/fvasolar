@@ -1,6 +1,6 @@
 ---
 date: 2023-09-17T15:12:02.649Z
-title: Průvodce pro začátečníky. Jak začít s výstavbou fotovoltaické elektrárny?
+title: Průvodce pro začátečníky.
 Img: /content/859.png
 ---
 ## Jak začít s výstavbou fotovoltaické elektrárny.
