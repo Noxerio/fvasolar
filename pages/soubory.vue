@@ -1,12 +1,7 @@
 <script setup>
     const { data } = await useAsyncData('documents', () => queryContent('/documents').find());
-    console.log(data.value);
     const firstCategory = data.value[0];
-    console.log(firstCategory.title);
-
     const firstFile = firstCategory.documentFiles[0];
-    console.log(firstFile.title);
-    console.log(firstFile.file);
 </script>
 <template>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 container mx-auto gap-8 my-8">

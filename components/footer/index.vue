@@ -35,6 +35,9 @@
                         <li class="opacity-75">Dokumenty</li>
                     </NuxtLink>
                         <li class="opacity-75"><a href="https://www.solaxcloud.com/#/login">Monitoring</a></li>
+                    <NuxtLink to="/gdpr">
+                        <li class="opacity-75">Ochrana osobních údajů</li>
+                    </NuxtLink>
                 </ul>
             </div>
             <div class="py-10">

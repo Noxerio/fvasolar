@@ -1,4 +1,14 @@
 <script setup>
+useHead({
+  title: 'Blog | FVA Solar - Články o fotovoltaických systémech',
+  meta: [
+    { name: 'description', content: 'Čtěte naše články o fotovoltaických systémech a zjistěte více o spolehlivosti, údržbě a servisu solárních panelů. Sledujte naši sekci Blog pro užitečné informace o zelené energetice.' },
+    { name: 'keywords', content: 'Blog, články, fotovoltaické systémy, spolehlivost, údržba, servis, solární panely, zelená energetika' }
+  ]
+}),
+definePageMeta({
+  layout: "sub",
+});
 
   const { data } = await useAsyncData('articles', () => queryContent('/articles').find());
   const articles = useState('articles', () => data.value.slice(0, 8))
@@ -12,7 +22,7 @@
                 <div v-for="article in articles" :key="article._path" class="">
                     <NuxtLink :to="article._path">
                     <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                            <img class="rounded-t-lg h-48" :src="article.Img"/>
+                            <img class="rounded-t-lg h-48 w-full" :src="article.Img"/>
                         <div class="p-5">
                                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"> {{ article.title }}</h5>
                         </div>
@@ -24,3 +34,4 @@
         </div>
     </div>
 </template>
+

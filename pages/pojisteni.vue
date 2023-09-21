@@ -37,6 +37,7 @@ meta: [
                 <h4 class="font-bold text-2xl mb-5">Bc. Ivana Bělunková</h4>
                 <p>pojišťovací poradce</p>
                 <p>Allianz pojišťovny, a.s.</p>
+                <p class="mt-2 font-bold">ivana.belunkova@iallianz.cz</p>
                 <p class="font-bold rounded-xl border-2 px-5 py-2 text-center my-5 text-xl">Tel: 732 614 213</p>
             </div>
             <img src="/img/pojisteni.png" class="md:hidden mx-auto">

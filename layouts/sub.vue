@@ -18,5 +18,7 @@ onMounted(() => {
         <SectionsEnergyHelp/>
         <SectionsTabs/>
         <Footer/>
+        <Cookie/>
+
     </div>
 </template>

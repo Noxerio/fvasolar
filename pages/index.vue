@@ -1,14 +1,4 @@
-<!-- <script setup>
-    const mail = useMail()
-    const send = () => {
-        mail.send({
-            from: 'John Doe',
-            subject: 'Incredible',
-            text: 'This is an incredible test message',
-        })
-    }
-    
-</script> -->
+
 <script setup>
 useHead({
   title: 'Váš partner v oblasti Fotovoltiky | FVA Solar',
@@ -28,11 +18,16 @@ useHead({
             <SectionsEnergyHelp/>
             <SectionsGuaranty/>
             <SectionsReferences/>
+            <SectionsBlog/>
             <SectionsTabs/>
             <SectionsBuy/>
+            <div class="fixed w-14 h-14 left-0 mx-auto bg-slate-400 -z-50">
+                Hello
+            </div>
         </main>
         <!-- <button @click="send">Odeslat...</button> -->
 
         <ModalsContact/>
+        <Cookie/>
     </div>
 </template>

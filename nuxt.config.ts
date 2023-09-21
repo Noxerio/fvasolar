@@ -10,22 +10,24 @@ export default defineNuxtConfig({
     '@vueuse/motion/nuxt',
     '@nuxt/image',
     '@vueuse/nuxt',
-  //   [
-  //     'nuxt-mail',
-  //     {
-  //         message: {
-  //             to: process.env.EMAIL_TO,
-  //         },
-  //         smtp: {
-  //             service: 'gmail',
-  //             auth: {
-  //                 user: process.env.EMAIL_GMAIL_USER,
-  //                 pass: process.env.EMAIL_GMAIL_KEY,
-  //             }
-  //         },
-  //     }
-  // ],
+
+   [
+       'nuxt-mail',
+      {
+           message: {
+               to: 'patrik-nemec@email.cz',
+           },
+           smtp: {
+               service: 'gmail',
+               auth: {
+                   user: 'alavisek@gmail.com',
+                   pass: 'zoks llqm ikro fgxa',
+               }
+           },
+       }
+   ],
   ],
+
   image: {
     provider: 'netlify',
     netlify: {

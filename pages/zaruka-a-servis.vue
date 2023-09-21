@@ -36,6 +36,7 @@ definePageMeta({
                 </ul>
             </div>
         </div>
+        <serviceForm />
         <SectionsGuaranty/>
     </div>
 </template>

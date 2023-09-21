@@ -67,13 +67,17 @@ meta: [
                 <p class="leading-8">Spolupracujeme s několika společnostmi, které se věnují této problematice a rádi poskytnou řešení při opravě Vaší fotovoltaické elektrárny. Umožní Vám znovu dosáhnout instalovaného výkonu Vaší fotovoltaické elektrárny.
                 </p>
             </div>
-            <div class="mx-auto">
-                <h3 class="text-xl font-extrabold mb-5 mx-auto">
-                    Kontakt
-                </h3>
-                <p class="leading-8">Petr Švagerka</p>
-                <p class="leading-8">+420 605 795 795</p>
-                <p class="leading-8">info@dronmax.cz</p>
+            <div class="mx-auto flex gap-8 justify-center my-20">
+                <img src="/img/fveinspekce.png">
+                <div>
+                    <h3 class="text-xl font-extrabold mb-5 mx-auto">
+                        Kontakt
+                    </h3>
+                    <p class="leading-8 font-bold mb-2">Petr Švagerka</p>
+                    <p class="leading-8">+420 605 795 795</p>
+                    <p class="leading-8">info@dronmax.cz</p>
+                </div>
+                
 
                 
             </div>

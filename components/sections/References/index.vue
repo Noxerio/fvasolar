@@ -1,5 +1,5 @@
 <script setup>
-  const { data } = await useAsyncData('references', () => queryContent('/references').find());
+  const { data } = await useAsyncData('references', () => queryContent('/references').sort({_path: -1}).find());
   const references = useState('references', () => data.value.slice(0, 8))
 </script>
 <template>
