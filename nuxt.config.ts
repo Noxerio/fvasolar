@@ -15,7 +15,7 @@ export default defineNuxtConfig({
        'nuxt-mail',
       {
            message: {
-               to: 'patrik-nemec@email.cz',
+               to: 'frantisek.fiala@fva-solar.cz',
            },
            smtp: {
                service: 'gmail',
