@@ -1,6 +1,6 @@
 ---
 date: 2023-09-13T17:12:40.879Z
-title: Elektrotechnik/pomocník
+title: Elektrotechnik / pomocník
 ---
 Hledáme zručného elektrotechnika do týmu v zahraničí. Upřednostňujeme ideálně tým lidí (2-5). Jedná se pouze o montážní práce fotovoltaických elektráren na rodinné domy, komerční budovy a instalace na pole. Podmínka OSVČ (aspoň 1 v týmu). Zkušenost je velmi vítána.
 
