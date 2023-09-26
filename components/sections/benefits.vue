@@ -8,7 +8,7 @@
             </span>fotovoltaiky</h2>
                 <p class="relative  text-center mb-8 text-lg md:w-1/2">Fotovoltaika šetří náklady, podporuje čistou energii i chrání planetu před znečištěním.</p>
                 <NuxtLink to="/kontakt">
-                <a class="relative px-10 py-3 bg-amber-400 rounded-xl w-fit mx-auto mb-5 md:mb-0" data-modal-target="defaultModal" data-modal-toggle="defaultModal">Mám zájem</a>
+                <a class="relative px-10 py-3 bg-amber-400 rounded-xl w-fit mx-auto mb-5 md:mb-0">Mám zájem</a>
                 </NuxtLink>
         </div>
             <div class="md:grid grid-cols-2 gap-9 ">

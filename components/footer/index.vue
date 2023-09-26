@@ -28,10 +28,10 @@
                     <NuxtLink to="/reference">
                         <li class="opacity-75">Reference</li>
                     </NuxtLink>
-                    <NuxtLink to="/zaruka-a-servis">
+                    <NuxtLink to="/aplikace">
                         <li class="opacity-75">Aplikace</li>
                     </NuxtLink>
-                    <NuxtLink to="/zaruka-a-servis">
+                    <NuxtLink to="/dokumenty">
                         <li class="opacity-75">Dokumenty</li>
                     </NuxtLink>
                         <li class="opacity-75"><a href="https://www.solaxcloud.com/#/login">Monitoring</a></li>
