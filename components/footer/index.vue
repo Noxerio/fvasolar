@@ -31,7 +31,7 @@
                     <NuxtLink to="/aplikace">
                         <li class="opacity-75">Aplikace</li>
                     </NuxtLink>
-                    <NuxtLink to="/dokumenty">
+                    <NuxtLink to="/soubory">
                         <li class="opacity-75">Dokumenty</li>
                     </NuxtLink>
                         <li class="opacity-75"><a href="https://www.solaxcloud.com/#/login">Monitoring</a></li>
