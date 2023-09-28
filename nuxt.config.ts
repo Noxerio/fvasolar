@@ -20,8 +20,8 @@ export default defineNuxtConfig({
            smtp: {
                service: 'gmail',
                auth: {
-                   user: 'alavisek@gmail.com',
-                   pass: 'zoks llqm ikro fgxa',
+                   user: 'firmafvasolar@gmail.com',
+                   pass: 'xgmf okyn wwnd asmi',
                }
            },
        }
