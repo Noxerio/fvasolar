@@ -1,6 +1,7 @@
 ---
 date: 2023-10-03T19:02:30.903Z
 title: Pojištění fotovoltaických zařízení
+Img: /content/fva-solar-fotovoltaická-elektrárna-na-klíč-ostrava-brno-praha-olomouc-zlín-pardubice-hradec-králové-nzu-dotace-fotovoltaický-panel-fve-panel-fotovoltaika-s-akumulací-fotovoltaika54.png
 ---
 ## Ochrana Vaší Investice
 
