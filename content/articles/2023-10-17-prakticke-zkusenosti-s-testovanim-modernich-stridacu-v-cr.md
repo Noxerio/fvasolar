@@ -5,6 +5,8 @@ Img: /content/snímek-obrazovky-2023-10-17-v-21.08.29.png
 ---
 ### Co zjistila Laboratoř čisté energetiky EG.D? Desítky tisíc samospotřebitelů musí lhát jako když tiskne jenom proto, že ERÚ neschválil výjimku prokazování.
 
+
+
 V roce 2019 jsme implementovali nařízení EU 2016/631 (RfG) do kodexu PPS a PPDS. Klíčovou povinností výrobců (tedy i samospotřebitelů) je prokázání shody VM (výrobního modulu) s vydaným nařízením RfG. Možnosti prokázání shody je certifikát, uznání zahraničního certifikátu nebo výjimka udělená ERÚ. Certifikát může vydávat pouze certifikátor (subjekt jehož akreditaci provádí pobočka Evropské organizace pro spolupráci v oblasti akreditace, zřízená podle nařízení EP a R 765/2008).
 
 V současném stavu prakticky neexistují subjekty které jsou schopni tyto zkoušky nebo simulace pro výrobce zajišťovat. A vzhledem k tomu že u VM A1 (s výkonem do 10,8 kW) platí dnes:
