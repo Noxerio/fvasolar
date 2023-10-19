@@ -7,4 +7,6 @@ documentFiles:
     title: TIGO - Řídící jednotka
   - title: TIGO - Návod pro zprovoznění předpřipraveného účtu
     file: /content/návod-tigo-4-.pdf
+  - file: /content/na-střechu-jen-to-nejlepší-proč-je-tigo-správnou-volbou-v-každé-situaci-final-1-.pdf
+    title: "TIGO - Prezentace "
 ---
