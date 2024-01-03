@@ -1,5 +1,5 @@
 ---
-title: FVE s optimizéry
+title: FVE s bateriovým uložištěm a optimizéry
 documentFiles:
   - title: "FVE o výkonu 9,79 kWp a bateriovým uložištěm 11,6 kWh optimizéry "
     file: /content/cenová-kalkulace-dodávky-a-montáže-9-79-kwp-11-6kwh-tigo-leden-2024.pdf
