@@ -1,5 +1,5 @@
 ---
-title: FVE s akumulací a autonabíječkou
+title: FVE s bateriovým uložištěm a autonabíječkou
 documentFiles:
   - title: FVE o výkonu 9,79 kWp a bateriovým uložištěm 11,6 kWh a autonabíječkou
     file: /content/cenová-kalkulace-dodávky-a-montáže-9-79-kwp-11-6kwh-wallbox-leden-2024.pdf
