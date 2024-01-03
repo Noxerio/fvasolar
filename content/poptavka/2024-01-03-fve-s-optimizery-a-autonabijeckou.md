@@ -1,5 +1,5 @@
 ---
-title: FVE s optimizéry a autonabíječkou
+title: FVE s akumulací, optimizéry a autonabíječkou
 documentFiles:
   - title: FVE o výkonu 9,79 kWp s bateriovým uložištěm 11,6 kWh, optimizéry a
       autonabíječkou
