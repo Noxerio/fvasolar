@@ -17,7 +17,7 @@
                 </div>
             </div>
             <h2 class="text-center text-4xl mt-8">Naše pobočky</h2>
-            <div class="grid md:grid-cols-2 gap-8 mb-8">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
                 <div>
                     <h3 class="text-center font-bold text-2xl mb-5">Ostrava</h3>
                     <div class="text-center mb-5">
@@ -38,6 +38,16 @@
                     </div>
                     <div>
                         <iframe class="rounded-2xl" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2606.9711525311163!2d16.621463189104933!3d49.20110680274464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471294f46395bf67%3A0x57627121c996cb13!2sCejl%2058%2F72%2C%20602%2000%20Brno-sever-Z%C3%A1brdovice!5e0!3m2!1scs!2scz!4v1694626878154!5m2!1scs!2scz" width="100%" height="450" style="border:0;"  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                    </div>
+                </div>
+                <div>
+                    <h3 class="text-center font-bold text-2xl mb-5">Zápy</h3>
+                    <div class="text-center mb-5">
+                        <p>Zápy 245,</p>
+                        <p>Zápy 250 61</p>
+                        <p></p>
+                    </div>
+                    <div>
+                        <iframe class="rounded-2xl" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377.5637623963632!2d14.677018695688961!3d50.16381610675606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470bf17ffda4106d%3A0x1168e4b03c7220a!2zWsOhcHkgMjQ1LCAyNTAgMDEgWsOhcHk!5e0!3m2!1scs!2scz!4v1709752943232!5m2!1scs!2scz" width="100%" height="450" style="border:0;"  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                    </div>
                 </div>
             </div>
             <SectionsContact/>
