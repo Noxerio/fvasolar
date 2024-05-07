@@ -7,7 +7,7 @@
                 <div class="grid md:grid-cols-2 gap-8 mb-8">
                     <div>
                         <h3 class="text-center font-bold text-2xl mb-5 flex items-center justify-center gap-2">František Fiala 
-                            <img className="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
+                            <img class="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
                         </h3>
                         <div class="text-center mb-5">
                             <p>info@fva-solar.cz</p>
@@ -16,8 +16,8 @@
                     </div>
                     <div>
                         <h3 class="text-center font-bold text-2xl mb-5 flex items-center justify-center gap-2">Nguyen Son
-                            <img className="w-5" src="https://cdn.countryflags.com/thumbs/vietnam/flag-square-500.png">
-                            <img className="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
+                            <img class="w-5" src="https://cdn.countryflags.com/thumbs/vietnam/flag-square-500.png">
+                            <img class="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
                         </h3>
                         <div class="text-center mb-5 ">
                             <p>s.nguyen@fva-solar.cz</p>
