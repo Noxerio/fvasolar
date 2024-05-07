@@ -4,18 +4,29 @@
         <div class="container mx-auto px-5 mt-8 mb-8">
             <div class=" rounded-xl">
                 <h2 class="text-center p-5 text-4xl font-bold">Neváhejte nás kontaktovat</h2>
-                <div class="grid md:grid-cols-2 px-5 text-center p-5 gap-8">
-                    <div class="bg-amber-400 rounded-xl p-5">
-                        <Icon class="mb-5" name="material-symbols:call-outline" size="48" />
-                        <p class="font-bold text-xl">+420 605 494 441</p>
+                <div class="grid md:grid-cols-2 gap-8 mb-8">
+                    <div>
+                        <h3 class="text-center font-bold text-2xl mb-5 ">František Fiala 
+                            <img className="" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
+                        </h3>
+                        <div class="text-center mb-5">
+                            <p>info@fva-solar.cz</p>
+                            <p>+420 605 494 441</p>
+                        </div>
                     </div>
-                    
-                    <div class="bg-amber-400 rounded-xl p-5">
-                        <Icon class="mb-5" name="material-symbols:mail-outline" size="48" />
-                        <p class="font-bold text-xl">info@fva-solar.cz</p>
+                    <div>
+                        <h3 class="text-center font-bold text-2xl mb-5">Nguyen Son
+                            <img src="https://cdn.countryflags.com/thumbs/vietnam/flag-square-500.png">
+                            <img src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
+                        </h3>
+                        <div class="text-center mb-5">
+                            <p>s.nguyen@fva-solar.cz</p>
+                            <p>+420 608 958 888</p>
+                        </div>
                     </div>
                 </div>
             </div>
+            
             <h2 class="text-center text-4xl mt-8 mb-5">Naše pobočky</h2>
             <div class="grid md:grid-cols-3 gap-8 mb-8">
                 <div>
