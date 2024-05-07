@@ -3,11 +3,11 @@
         <AssetsSubHeader :title="'Kontakt'"/>
         <div class="container mx-auto px-5 mt-8 mb-8">
             <div class=" rounded-xl">
-                <h2 class="text-center p-5 text-4xl font-bold">Neváhejte nás kontaktovat</h2>
+                <h2 class="text-center p-5 text-4xl font-bold mb-5">Neváhejte nás kontaktovat</h2>
                 <div class="grid md:grid-cols-2 gap-8 mb-8">
                     <div>
-                        <h3 class="text-center font-bold text-2xl mb-5 ">František Fiala 
-                            <img className="" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
+                        <h3 class="text-center font-bold text-2xl mb-5 flex items-center justify-center gap-2">František Fiala 
+                            <img className="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
                         </h3>
                         <div class="text-center mb-5">
                             <p>info@fva-solar.cz</p>
@@ -15,11 +15,11 @@
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-center font-bold text-2xl mb-5">Nguyen Son
-                            <img src="https://cdn.countryflags.com/thumbs/vietnam/flag-square-500.png">
-                            <img src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
+                        <h3 class="text-center font-bold text-2xl mb-5 flex items-center justify-center gap-2">Nguyen Son
+                            <img className="w-5" src="https://cdn.countryflags.com/thumbs/vietnam/flag-square-500.png">
+                            <img className="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
                         </h3>
-                        <div class="text-center mb-5">
+                        <div class="text-center mb-5 ">
                             <p>s.nguyen@fva-solar.cz</p>
                             <p>+420 608 958 888</p>
                         </div>
