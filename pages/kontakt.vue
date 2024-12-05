@@ -16,6 +16,16 @@
                         </div>
                     </div>
                     <div class="p-5 border-2 border-black rounded-lg"> 
+                        <h3 class="text-center font-bold text-2xl mb-5 flex items-center justify-center gap-2">Michal Pelech
+                            <img class="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
+                        </h3>
+                        <div class="text-center">
+                            <p class="opacity-70">Sales Manager</p>
+                            <p>m.pelech@fva-solar.cz</p>
+                            <p>+420 603 194 883</p>
+                        </div>
+                    </div>
+                    <div class="p-5 border-2 border-black rounded-lg"> 
                         <h3 class="text-center font-bold text-2xl mb-5 flex items-center justify-center gap-2">Nguyen Son
                             <img class="w-5" src="https://cdn.countryflags.com/thumbs/vietnam/flag-square-500.png">
                             <img class="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
@@ -24,16 +34,6 @@
                             <p class="opacity-70">Sales Representative</p>
                             <p>s.nguyen@fva-solar.cz</p>
                             <p>+420 608 958 888</p>
-                        </div>
-                    </div>
-                    <div class="p-5 border-2 border-black rounded-lg"> 
-                        <h3 class="text-center font-bold text-2xl mb-5 flex items-center justify-center gap-2">Michal Pelech
-                            <img class="w-5" src="https://cdn.countryflags.com/thumbs/czech-republic/flag-square-500.png">
-                        </h3>
-                        <div class="text-center">
-                            <p class="opacity-70">Sales Manager</p>
-                            <p>m.pelech@fva-solar.cz</p>
-                            <p>+420 603 194 883</p>
                         </div>
                     </div>
                 </div>
