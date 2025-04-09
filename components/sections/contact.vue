@@ -7,7 +7,6 @@
                     <li class="flex gap-2 text-xl font-bold pb-5 uppercase">FVA Solar, s.r.o.</li>
                     <li class="flex gap-2"><span class="font-bold">IČO:</span>14267560</li>
                     <li class="flex gap-2"><span class="font-bold">DIČ:</span>CZ14267560</li>
-                    <li class="flex gap-2"><span class="font-bold">Steuernummer:</span>214/173/23187</li>
                     <li class="flex gap-2"><span class="font-bold">Sídlo:</span>Paskovská 636/275, Hrabová, 720 00 Ostrava</li>
                     <li class="flex gap-2"><span class="font-bold">Spisová značka:</span>C 88489 vedená u Krajského soudu v Ostravě</li>
                     <li class="flex gap-2"><span class="font-bold">Bankovní spojení CZK:</span>2602125766/2010</li>
